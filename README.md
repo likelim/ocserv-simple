@@ -7,10 +7,10 @@
 ## 预览
 
 ```
-root@cn2:~# bash ocserv.sh
+root@cn2:~# bash ocserv-simple.sh
 请选择要执行的功能：
-1) 添加 ocserv 用户   3) 配置证书           5) 关闭 ocserv        7) 卸载 ocserv
-2) 移除 ocserv 用户   4) 启动或重启 ocserv  6) 查看 ocserv 状态   8) 退出
+1) 添加 ocserv 用户   3) 配置证书           5) 关闭 ocserv        7) 更新脚本           9) 退出
+2) 移除 ocserv 用户   4) 启动或重启 ocserv  6) 查看 ocserv 状态   8) 卸载 ocserv
 #? 
 ```
 
@@ -30,3 +30,4 @@ wget https://raw.githubusercontent.com/likelim/ocserv-simple/main/ocserv-simple.
 - [OpenConnect VPN Client](http://www.infradead.org/openconnect/)
 - [CentOS](https://www.centos.org/)
 - [Ubuntu](https://ubuntu.com/)
+- [ocserv-install](https://github.com/wangwanjie/ocserv-install/)
